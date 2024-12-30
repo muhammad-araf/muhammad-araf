@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 👋 Hi I am Muhammad Araf<br>- 📚 I'm currently learning Java</p>
+<p align="left">- 👋 Hi I am Muhammad Araf<br>- 👦 I'm a 17 year old <br>- 📚 I'm currently learning Java </p>
 
 ###
 
