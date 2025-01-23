@@ -16,7 +16,7 @@
 ###
 
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=javascript,css,html,vscode,github,git,figma" />
+   <img src="https://skillicons.dev/icons?i=javascript,css,html,vscode,github,git,figma,gitlab" />
 </div>
 
 ###
