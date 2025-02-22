@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=javascript,c,python,css,html,cpp,vscode,github,git,figma,gitlab" />
+   <img src="https://skillicons.dev/icons?i=javascript,java,c,python,css,html,cpp,vscode,github,git,figma,gitlab" />
 </div>
 
 ###
