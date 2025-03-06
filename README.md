@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7A5AE4&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Muhammad+Araf+👨🏻‍💻;+1️⃣7️⃣+Year+Old;+BSCS+Student🎓" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7A5AE4&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Muhammad+Araf+👨🏻‍💻;+17+Year+Old;+BSCS+Student🎓" />
 </h1>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=m-araf&label=Profile%20views&color=0e75b6&style=flat" alt="m-araf" /> 
