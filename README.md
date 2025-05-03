@@ -10,7 +10,7 @@
 ###
 
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,vscode,github,git,gitlab,docker,figma" />
+   <img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,vscode,github,git,gitlab,docker,figma" />
 </div>
 
 ###
