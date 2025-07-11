@@ -5,12 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=m-araf&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-araf" /> 
 </p>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Language and tools:</h3>
 
 ###
 
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,js,vscode,github,git,gitlab,docker,figma" />
+   <img src="https://skillicons.dev/icons?i=,java,cpp,c,html,css,js,react,vscode,github,git,gitlab,figma" />
 </div>
 
 ###
