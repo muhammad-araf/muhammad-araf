@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FF6688&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!;+I'm+Muhammad+Araf;+17+Year+Old;+Software+Engineer" />
 </h1>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=m-araf&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-araf" /> 
+  <img src="https://komarev.com/ghpvc/?username=m-araf&label=Profile%20views&color=FF6688&style=flat%22%20alt=%22muhammad-araf" /> 
 </p>
 
 <h3 align="left">Language and tools:</h3>
