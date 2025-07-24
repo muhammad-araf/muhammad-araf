@@ -1,9 +1,9 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FF6688&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!;+I'm+Muhammad+Araf;+17+Year+Old;+Software+Engineer" />
+<h1 align="center" style="font-size: 3rem; font-weight: bold; color: #FF6688; text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);">
+  Hi, I'm 
+  <a href="https://github.com/muhammad-araf" style="color: #FF6688; text-decoration: none;">Muhammad Araf</a>
 </h1>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=m-araf&label=Profile%20views&color=FF6688&style=flat%22%20alt=%22muhammad-araf" /> 
-</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6688&height=160&section=header&text=DEVELOPER&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40"/>
 
 <h3 align="left">Language and tools:</h3>
 
