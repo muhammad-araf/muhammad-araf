@@ -21,7 +21,7 @@
 <h3 align="left">Language and tools:</h3>
 
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,ts,react,next,redux,mongo,vscode,github,git,figma" />
+   <img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,ts,react,next,nodejs,expressjs,redux,mongo,vscode,github,postman,git,gitlab,figma" />
 </div>
 
 <h3 align="left">My Stats :</h3>
